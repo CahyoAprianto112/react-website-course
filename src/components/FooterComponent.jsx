@@ -18,7 +18,7 @@ const FooterComponent = () => {
                         </div>
                         <div className="email">
                             <Link className="text-decoration-none">
-                                <i className="fa-reguler fa-envelope"></i>
+                                <i className="fa-regular fa-envelope"></i>
                                 <p className="m-0">course@gmail.com</p>
                             </Link>
                         </div>
